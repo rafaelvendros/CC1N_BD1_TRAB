@@ -1,7 +1,8 @@
 # EMPRESA E-COMMERCE
-Empresa de compras ONLINE
+Empresa nacional de compras ONLINE 
 
-## Relações: > Cliente > Carrinho >
+## ENTIDADES: <> Cliente <> Carrinho <> Estoque <> 
+Relações: 
 
 ### Atributos: Endereço, E-MAIL (U), Telefone (U), SENHA?(U)
 
