@@ -1,2 +1,2 @@
-# CC1N_BD1_TRAB
-Trabalho universitário de banco de dados I (CC1N - UVV)
+#EMPRESA E-COMMERCE
+Empresa de compras ONLINE
