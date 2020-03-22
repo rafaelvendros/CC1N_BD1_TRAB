@@ -9,7 +9,7 @@
 * **Venda**
 * **Transportador(a)** 
 
-## Modelo Relacional *beta*:
+## Modelo Relacional:
 <p align="center">
   <img src="./img/Logical.png" alt="Modelo Logico BdD">
 </p>
