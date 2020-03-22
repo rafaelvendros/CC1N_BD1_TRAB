@@ -29,6 +29,6 @@ Para o cadastro dos produtos, as seguintes informações serão solicitadas: **�
 
 Todas as entregas são realizadas por algumas transportadoras selecionadas pelo E-Commerce, de forma que **uma venda** só possa estar relacionada a **uma transportadora**, porém **uma transportadora** *pode* estar conectada a **várias vendas**. <br>
 
-Seguindo essa lógica, **um produto** *deve* estar em **um ou vários estoques ao mesmo tempo** e **um estoque pode receber vários produtos diferentes**. Um programador *pode* ou *não* estar conectado a inserção de **um ou mais produtos**, porém **um produto** *deve* <br> estar conectado a **um programador**.
+Seguindo essa lógica, **um produto** *deve* estar em **um ou vários estoques ao mesmo tempo** e **um estoque pode receber vários produtos diferentes**. Um programador *pode* ou *não* estar conectado a inserção de **um ou mais produtos**, porém **um produto** *deve* estar conectado a **um programador**.
 
 
