@@ -17,3 +17,7 @@ O cadastro irá exigir dados pessoais, localização (para entrega dos produtos)
 <p align="center">
   <img src="./img/Logical.png" alt="Modelo Logico BdD">
 </p>
+
+### Ok... mas...
+<p align="center">
+  <img src="./img/WTF.jpg" alt="???">
