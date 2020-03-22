@@ -13,3 +13,5 @@ O cadastro irá exigir dados pessoais, localização (para entrega dos produtos)
 * **Venda**
 * **Transportador(a)** 
 
+
+
