@@ -13,5 +13,7 @@ O cadastro irá exigir dados pessoais, localização (para entrega dos produtos)
 * **Venda**
 * **Transportador(a)** 
 
-
-
+## Modelo Relacional *beta*:
+<p align="center">
+  <img src="./img/Logical.png" alt="Modelo Logico BdD">
+</p>
