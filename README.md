@@ -2,13 +2,13 @@
 Empresa nacional voltada para compras somente **online**
 
 ## ENTIDADES:
-1. **Pessoas:** *Funcionários (Programador / Atendente) e Clientes*
-2. **Produtos**
-3. **Atendimento**
-4. **Estoque**
-5. **Carrinho**
-6. **Venda**
-7. **Transportador(a)** 
+* **Pessoas:** *Funcionários (Programador / Atendente) e Clientes*
+* **Produtos**
+* **Atendimento**
+* **Estoque**
+* **Carrinho**
+* **Venda**
+* **Transportador(a)** 
 
 ### Ligações?:
 
