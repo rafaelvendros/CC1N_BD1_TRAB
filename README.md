@@ -6,12 +6,10 @@ O cadastro irá exigir dados pessoais, localização (para entrega dos produtos)
 
 ## ENTIDADES:
 * **Pessoas:** *Funcionários (Programador / Atendente) e Clientes*
-* **Produtos**
-* **Atendimento**
+* **Produtos** & **Produtos_Estoque** 
 * **Estoque**
-* **Carrinho**
+* **Atendimento**
+* **Carrinho (Produtos_Venda)**
 * **Venda**
 * **Transportador(a)** 
-
-## RELAÇÕES:
 
