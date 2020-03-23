@@ -1,4 +1,5 @@
-# BANCO DE DADOS
+# CC1N - BANCO DE DADOS - UVV
+Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael Guimarães Vendros
 
 ## ENTIDADES:
 * **Pessoas:** *Funcionários (Programador / Atendente) e Clientes*
@@ -16,7 +17,7 @@
 
 ### Ok... mas...
 <p align="center">
-  <img src="./img/WTF.jpg" alt="???">
+  <img src="./img/WTF.jpg" alt="Não entendi - ???">
 
 # Modelo Escolhido: **E-Commerce Nacional**
 A empresa em questão é baseada na venda de produtos pela internet, de forma que essa possuía **5 estoques de produtos**, 1 em cada região do país. O banco de dados será gerenciado pelo site do *E-Commerce*, de forma que todas as informações que receberá – relacionada aos clientes e produtos – serão fornecidas por esse. <br>
