@@ -1,5 +1,5 @@
 # CC1N - BANCO DE DADOS - UVV
-Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael Guimarães Vendros
+**Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael Guimarães Vendros**
 
 ## ENTIDADES:
 * **Pessoas:** *Funcionários (Programador / Atendente) e Clientes*
