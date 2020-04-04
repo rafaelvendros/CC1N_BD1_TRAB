@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Lógico E-Commerce" id="D85F3F4C-43E7-A2ED-3687-B053188DE6E5" version="3.5">
-<createdBy>OverShade</createdBy>
-<createdTime>2020-04-04 00:25:23 UTC</createdTime>
-<ownerDesignName>Modelo Lógico E-Commerce</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>D85F3F4C-43E7-A2ED-3687-B053188DE6E5</designId>
-</OSDM_Design>
