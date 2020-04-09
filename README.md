@@ -2,7 +2,7 @@
 Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael Guimarães Vendros**
 
 ## ENTIDADES:
-* **Pessoas:** *tendente e Clientes*
+* **Pessoas:** *Atendente e Clientes*
 * **Produtos** & **Produtos_Estoque** 
 * **Estoque**
 * **Atendimento**
