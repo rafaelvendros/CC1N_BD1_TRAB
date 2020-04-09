@@ -11,7 +11,11 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 * **Transportador(a)** 
 
 <p align="center">
-  <img src="./IMG/Screenshot_1.png" alt="Modelo Logico BdD">
+  <img src="./IMG/Screenshot_0.png" alt="Imagem 1 do exemplo">
+</p>
+
+<p align="center">
+  <img src="./IMG/Screenshot_1.png" alt="Imagem 2 do exemplo">
 </p>
 
 # Modelo Escolhido: **E-Commerce Nacional**
