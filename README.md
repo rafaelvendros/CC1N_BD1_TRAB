@@ -18,6 +18,11 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
   <img src="./IMG/Screenshot_1.png" alt="Imagem 2 do exemplo">
 </p>
 
+<p align="center">
+  <img src="./IMG/MODELO.png" alt="Imagem 1 do modelo">
+</p>
+
+
 # Modelo Escolhido: **E-Commerce Nacional**
 A empresa em questão é baseada na venda de produtos pela internet, de forma que essa possuía **5 estoques de produtos**, 1 em cada região do país. O banco de dados será gerenciado pelo site do *E-Commerce*, de forma que todas as informações que receberá – relacionada aos clientes e produtos – serão fornecidas por esse. <br>
 
