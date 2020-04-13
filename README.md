@@ -19,7 +19,7 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 </p>
 
 <p align="center">
-  <img src="./IMG/MODELO.png" alt="Imagem 1 do modelo">
+  <img src="./IMG/Logical.png" alt="Imagem 1 do modelo">
 </p>
 
 
@@ -38,4 +38,16 @@ Todas as entregas são realizadas por algumas transportadoras selecionadas pelo 
 
 Seguindo essa lógica, **um produto** *deve* estar em **um ou vários estoques ao mesmo tempo** e **um estoque pode receber vários produtos diferentes**. 
 
+## Perguntas Importantes Para o Modelo:
 
+ * Quais foram os clientes que um determinado atendente já atendeu? 
+ * Quais são os atendentes com nota mais que 4 ou menor que 2?
+ * Quais foram os atendentes que já atenderam esse clientes?
+ * Quais notas que esses atendentes já receberam dos clientes?
+ * Quais foram todos os produtos que foram vendidos mes passado?
+ * Qual foi o valor arrecadado no total de venda dos produtos do estoque?
+ * Quantos atendimentos esse funcionário já realizou?
+ * Quantas entregas essa transportadora já ficou responsável?
+ * Em quais estoques esses produtos estão localizados?
+ * Qual a transportadora mais próxima desses clientes?
+ * Qual o meu balanço de hoje nessa categoria?
