@@ -19,7 +19,7 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 </p>
 
 <p align="center">
-  <img src="./IMG/Logical.png" alt="Imagem 1 do modelo">
+  <img src="./IMG/Logical 1.2.png" alt="Imagem 1 do modelo">
 </p>
 
 
