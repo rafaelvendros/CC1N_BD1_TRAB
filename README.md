@@ -53,14 +53,14 @@ Seguindo essa lógica, **um produto** *deve* estar em **um ou vários estoques a
  * Qual o meu balanço de hoje nessa categoria?
 
 ### Formas Normais:
- **Primeira Forma Normal**
+ **Primeira Forma Normal:**
 Orientada pelo princípio de que caso um atributo possa possuir mais de um valor quando considerada uma instância, faz-se necessária a criação de uma nova entidade para armazenar esses atributos.
 Consoante a isso, essa nova entidade – criada para armazenar esses atributos com mais de um valor – deve ser ligada a entidade original por meio de uma ligação 1: N, para que assim fique de acordo a essa forma normal.
 
-**Segunda Forma Normal**
+**Segunda Forma Normal:**
     Diferentemente da primeira forma normal, a segunda forma normal segue a lógica de que todas as informações/atributos que se referem ao identificador único de uma entidade devem ser dependentes e pertencerem a esse.
     Porém, podem existir casos em que o identificador único seja composto, quando isso ocorre a lógica dessa norma deve ser aplicada para todas as partes desse identificador, do contrário uma nova entidade precisará ser criada para agir como um identificador único parcial.
 
-**Terceira Forma Normal**
+**Terceira Forma Normal:**
     Fácil de confundir-se com a segunda forma, segue o entendimento de que atributos que não são identificadores únicos não podem depender de seus semelhantes, sendo obrigados a dependerem de um identificador único, evitando assim dependências transitivas.
     Para seguir essa forma normal, deve-se criar novas entidades para armazenar os atributos que não sejam identificador únicos e dependam de um identificador não único.
