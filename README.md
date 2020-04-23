@@ -3,6 +3,8 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 
 ## ENTIDADES:
 * **Pessoas:** *Atendente e Clientes*
+* **Nome_Pessoa**
+* **Endereço_Pessoa**
 * **Produtos** & **Produtos_Estoque** 
 * **Estoque**
 * **Atendimento**
@@ -19,7 +21,7 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 </p>
 
 <p align="center">
-  <img src="./IMG/Logical 1.2.png" alt="Imagem 1 do modelo">
+  <img src="./IMG/Logical 1.3.jpg" alt="Imagem 1 do modelo">
 </p>
 
 
