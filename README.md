@@ -20,11 +20,11 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 </p>
 
 <p align="center">
-  <img src="./IMG/Logical 1.6.png" alt="Imagem 1 do modelo">
+  <img src="./IMG/Logical 1.7.png" alt="Imagem 1 do modelo">
   
 </p>
 <p align="center">
-  <img src="./IMG/Relational 1.2.png" alt="Imagem 2 do modelo">
+  <img src="./IMG/Relacional 1.2.png" alt="Imagem 2 do modelo">
 </p>
 
 
@@ -35,7 +35,7 @@ No site, existirão vários produtos expostos de forma que os clientes poderão 
 
 Dentro do site não podem existir anúncios do mesmo produto, exceto que tenham sido originados de fornecedores diferentes. Além disso, no site existe um grupo de pessoas responsável pelo atendimento ao cliente, de forma que eles serão avaliados pelo seu atendimento gerando assim uma nota para o atendente, o qual começará com nota **5**. <br>
 
-Para o cadastro dos funcionários, será necessário o **“Número de Matrícula”, o “Nome do Funcionário”, “Número de Telefone”, “E-mail”, o atributo **“Nota”** e o “Endereço Residencial” ,sendo esse opcional**. O mesmo ocorre para os atendentes, porém será adicionado . <br>
+Para o cadastro dos funcionários, será necessário o **“Número de Matrícula”, o “Nome do Funcionário”, “Número de Telefone”, “E-mail”, o atributo **“Nota”** e o “Endereço Residencial” ,sendo esse opcional**. <br>
 
 Para o cadastro dos produtos, as seguintes informações serão solicitadas: **“Nome do Produto”, “Código do Produto”, “Marca”, “Modelo”, “Quantidade por Estoque”**, sendo todos esses obrigatórios. <br>
 
