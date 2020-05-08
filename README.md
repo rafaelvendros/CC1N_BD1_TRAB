@@ -20,11 +20,11 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
 </p>
 
 <p align="center">
-  <img src="./IMG/Logical 1.7.png" alt="Imagem 1 do modelo">
+  <img src="./IMG/Logical 1.8.png" alt="Imagem 1 do modelo">
   
 </p>
 <p align="center">
-  <img src="./IMG/Relacional 1.2.png" alt="Imagem 2 do modelo">
+  <img src="./IMG/Relational 1.3.png" alt="Imagem 2 do modelo">
 </p>
 
 
@@ -42,6 +42,8 @@ Para o cadastro dos produtos, as seguintes informações serão solicitadas: **�
 Todas as entregas são realizadas por algumas transportadoras selecionadas pelo E-Commerce, de forma que **uma venda** só possa estar relacionada a **uma transportadora**, porém **uma transportadora** *pode* estar conectada a **várias vendas**. <br>
 
 Seguindo essa lógica, **um produto** *deve* estar em **um ou vários estoques ao mesmo tempo** e **um estoque pode receber vários produtos diferentes**. 
+
+Somado a isso, os atendentes também serão responsáveis por entrar em contato com os fornecedores e realizar as compras dos produtos que estão em exibição no site.
 
 ## Perguntas Importantes Para o Modelo:
 
