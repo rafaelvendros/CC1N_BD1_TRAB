@@ -24,7 +24,7 @@ Componentes: **Gustavo Contarato Sant'anna, Leandro dos Santos de Abreu, Rafael 
   
 </p>
 <p align="center">
-  <img src="./IMG/Relational 1.3.png" alt="Imagem 2 do modelo">
+  <img src="./IMG/Relational 1.4.png" alt="Imagem 2 do modelo">
 </p>
 
 
