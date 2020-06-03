@@ -1,0 +1,38 @@
+alter table clientes
+add primary key (id_cliente);
+
+alter table enderecos
+add primary key (id_endereco);
+
+alter table compras
+add primary key (id_compra);
+
+alter table atendentes
+add primary key (numero_matricula);
+
+alter table compras_produtos
+add primary key (id_compra_produto);
+
+alter table fornecedores
+add primary key (id_fornecedor);
+
+alter table produtos
+add primary key (id_produto);
+
+alter table produtos_estoques
+add primary key (id_produto_estoque);
+
+alter table carrinhos
+add primary key (id_carrinho);
+
+alter table estoques
+add primary key (id_estoque);
+
+alter table vendas
+add primary key (numero_venda);
+
+alter table atendimentos
+add primary key (numero_protocolo);
+
+alter table transportadoras
+add primary key (id_transportadora);

@@ -1,0 +1,75 @@
+alter table atendentes 
+    
+add constraint uk_atendentes unique(numero_matricula);
+    
+
+
+alter table atendimentos
+    
+add constraint uk_atendimentos unique(numero_protocolo);
+    
+
+
+alter table carrinhos  
+    
+add constraint uk_carrinhos unique(vend_numero_venda,valor_carrinho);
+    
+
+
+alter table clientes
+    
+add constraint uk_clientes unique(login);
+    
+
+
+alter table compras
+    
+add constraint uk_compras unique(data_compra,valor_compra,atende_numero_matricula);
+    
+
+
+alter table compras_produtos
+    
+add constraint uk_compra_produto unique(quantidade_compra_produto,comp_id_compra,produtos_id_produto);
+    
+
+
+alter table enderecos
+    
+add constraint uk_enderecos unique(cep_endereco);
+    
+
+
+alter table estoques
+    
+add constraint uk_estoques unique(cep_estoque);
+    
+
+
+alter table fornecedores
+    
+add constraint uk_fornecedores unique(cnpj_fornecedor);
+    
+
+
+alter table produtos
+   
+add constraint uk_produtos unique(codigo_produto);
+
+
+
+alter table produtos_estoques
+    
+add constraint uk_produtos_estoques unique(prod_id_produto,esto_id_estoque);
+    
+
+
+alter table transportadoras
+    
+add constraint uk_transportadoras unique(cnpj_transportadora);
+    
+
+
+alter table vendas
+    
+add constraint uk_vendas unique(valor_venda,data_venda,client_id_cliente);
