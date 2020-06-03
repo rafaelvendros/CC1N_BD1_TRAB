@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Logico Projeto Integrado" id="A46C3915-4D0A-15E7-6702-7D0673EDC0F6" version="3.5">
+<createdBy>OverShade</createdBy>
+<createdTime>2020-05-21 20:00:10 UTC</createdTime>
+<ownerDesignName>Modelo Logico Projeto Integrado</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A46C3915-4D0A-15E7-6702-7D0673EDC0F6</designId>
+</OSDM_Design>
