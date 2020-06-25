@@ -48,7 +48,7 @@ Somado a isso, os atendentes também serão responsáveis por entrar em contato 
 ## Perguntas Importantes Para o Modelo:
 
  * Quais foram os clientes que um determinado atendente já atendeu? 
- * Quais são os atendentes com nota mais que 4 ou menor que 2?
+ * Quais são os atendentes com nota maior que 3 e menor que 5?
  * Quais foram os atendentes que já atenderam esse clientes?
  * Quais notas que esses atendentes já receberam dos clientes?
  * Quais foram todos os produtos que foram vendidos mes passado?
