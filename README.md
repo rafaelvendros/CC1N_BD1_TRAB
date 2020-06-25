@@ -47,17 +47,16 @@ Somado a isso, os atendentes também serão responsáveis por entrar em contato 
 
 ## Perguntas Importantes Para o Modelo:
 
- * Quais foram os clientes que um determinado atendente já atendeu? 
+ * Quais foram os clientes que um determinado atendente já atendeu?
  * Quais são os atendentes com nota maior que 3 e menor que 5?
- * Quais foram os atendentes que já atenderam esse clientes?
- * Quais notas que esses atendentes já receberam dos clientes?
- * Quais foram todos os produtos que foram vendidos mes passado?
+ * Quais foram os atendentes que já atenderam esse cliente?
+ * Quais notas que esse atendente já recebeu dos clientes?
+ * Quais foram todos os produtos que foram vendidos mês passado?
  * Qual foi o valor arrecadado no total de venda dos produtos do estoque?
  * Quantos atendimentos esse funcionário já realizou?
  * Quantas entregas essa transportadora já ficou responsável?
  * Em quais estoques esses produtos estão localizados?
- * Qual a transportadora mais próxima desses clientes?
- * Qual o meu balanço de hoje nessa categoria?
+ * Quanto já vendi nessa categoria?
 
 ### Formas Normais:
  **Primeira Forma Normal:**
